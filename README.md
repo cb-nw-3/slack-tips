@@ -118,37 +118,24 @@ Following these steps may be arduous, but it can save a lot of back-and-forth, a
 
 ---
 
-# Workshop forks
+# Fork source
 
-(unrelated)
+All workshops exist in two places: `journey-education` and `cb-nw-3`
 
----
+Always fork from `cb-nw-3`!
 
-Some students have noticed that all workshops exist in two places on Github:
-
-- `journey-education/m4-1-magic-whatever`
-- `cb-nw-3/m4-1-magic-whatever`
+(But don't worry about the first 3 workshops / the project)
 
 ---
 
-`journey-education` is the "original" version.
-
-`cb-nw-3` is one that I've tweaked to work for our cohort.
+Workshop sources will always be listed in the **course log**.
 
 ---
 
-**Always** fork from the cb-nw-3 one.
+# Getting stuck on exercises
 
-Otherwise, things will be very confusing. I change/reorder exercises!
+I built a flow-chart!
 
----
-
-You can always find the right workshop repositories in the Course Log.
-
-The Course Log is linked to from Slack.
-
----
-
-(don't worry about the first 3 workshops though. We'll check both places).
+<img src="./exercises-flow-chart.png" alt="Flow-chart showing what to do when working on exercises" />
 
 ---
